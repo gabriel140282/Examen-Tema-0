@@ -11,3 +11,10 @@ con el hardware del ordenador.
 
 Ejercicio 2:
 
+Un archivo makerfile es un archivo de configuración para automatizar la compilación de programas. Suele contener una serie de reglas que especifica el cómo se debe compilar y enlazar 
+los distintos archivos fuente del proyecto.
+
+Ejercicio 3:
+
+Los punteros en C++ son variabbles que almacenan la direccion de memoria de otra variable. Con esto, podemos manipular la memoria de un programa para obtener una cierta optimización
+del mismo
